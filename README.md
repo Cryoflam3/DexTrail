@@ -2,7 +2,7 @@
 
 Your Pokémon companion for Android. Look up Pokémon, explore regional maps, build teams, and keep track of your collection in one place.
 
-[Visit the DexTrail website](https://dextrail.wryvine18.chatgpt.site) · [Privacy policy](https://dextrail.wryvine18.chatgpt.site/privacy.html)
+[Visit the DexTrail website](https://cryoflam3.github.io/DexTrail/) · [Privacy policy](https://cryoflam3.github.io/DexTrail/privacy.html)
 
 ## Download
 
