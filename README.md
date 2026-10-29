@@ -10,7 +10,7 @@ Get the APK from [Releases](https://github.com/Cryoflam3/DexTrail/releases/lates
 
 **Version 1.0 · Android 5.1 or newer**
 
-1. Download `DexTrail.apk` from the release.
+1. Download `DexTrail-1.0.apk` from the release.
 2. Open the file on your Android device. Android may ask you to allow installation from your browser or file manager.
 3. Choose a nickname and avatar, set your preferences, and start exploring.
 
