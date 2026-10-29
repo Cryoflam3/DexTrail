@@ -1,5 +1,14 @@
 # DexTrail release history
 
+## 1.0.2 — 2026-10-29
+
+Champions updates, without losing your place
+
+- Fixed the Champions update button jumping back to the top of the page.
+- Added live progress for announcements, eligible Pokémon, guide sections, artwork and saving changes.
+- You can pause and resume a Champions check without losing your place. Interrupted checks keep your saved information safe.
+- Kept roster searches and expanded details in place when Champions information refreshes.
+
 ## 1.0.1 — 2026-10-29
 
 Smoother PokéAPI updates
