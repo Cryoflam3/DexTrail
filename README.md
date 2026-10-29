@@ -8,15 +8,21 @@ Your Pokémon companion for Android. Look up Pokémon, explore regional maps, bu
 
 Get the APK from [Releases](https://github.com/Cryoflam3/DexTrail/releases/latest).
 
-**Version 1.0 · Android 5.1 or newer**
+**Version 1.0.1 · Android 5.1 or newer**
 
-1. Download `DexTrail-1.0.apk` from the release.
+1. Download `DexTrail-1.0.1.apk` from the release.
 2. Open the file on your Android device. Android may ask you to allow installation from your browser or file manager.
 3. Choose a nickname and avatar, set your preferences, and start exploring.
 
 DexTrail checks for new published APK releases when you open the app and offers **Update now** or **Later**. This needs an internet connection and respects the app’s Wi-Fi-only update setting.
 
 For future updates, install the new APK over your existing copy. Export a saved-data backup first so you have an extra copy of your records.
+
+## What’s New in 1.0.1
+
+Fixed PokéAPI updates getting stuck at “1 of 5.” Checks now use PokéAPI’s official data files, reuse unchanged downloads, and respond promptly when paused. Clearer progress and connection messages make it easier to retry if a check is interrupted.
+
+[Read the release history](CHANGELOG.md)
 
 ## What’s inside
 
