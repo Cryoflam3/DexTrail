@@ -1,5 +1,12 @@
 # DexTrail release history
 
+## 1.0.5 — October 30, 2026
+
+- App update alerts now work on mobile data as well as Wi-Fi.
+- See what changed directly in the update prompt.
+- Download updates inside DexTrail, follow their progress, and open Android’s installer when they’re ready. Your saved data stays in place.
+- Wi-Fi only still applies to PokéAPI and Champions reference downloads. APK downloads start only when you choose.
+
 ## 1.0.4 — October 30, 2026
 
 - Added optional usage statistics to help improve DexTrail and make updates more reliable.
@@ -34,3 +41,5 @@ Smoother PokéAPI updates
 ## 1.0 — 2026-10-26
 
 Initial release
+
+

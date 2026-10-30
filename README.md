@@ -8,21 +8,22 @@ Your Pokémon companion for Android. Look up Pokémon, explore regional maps, bu
 
 Get the APK from [Releases](https://github.com/Cryoflam3/DexTrail/releases/latest).
 
-**Version 1.0.4 · Android 5.1 or newer**
+**Version 1.0.5 · Android 5.1 or newer**
 
-1. Download `DexTrail-1.0.4.apk` from the release.
+1. Download `DexTrail-1.0.5.apk` from the release.
 2. Open the file on your Android device. Android may ask you to allow installation from your browser or file manager.
 3. Choose a nickname and avatar, set your preferences, and start exploring.
 
-DexTrail checks for new published APK releases when you open the app and offers **Update now** or **Later**. This needs an internet connection and respects the app’s Wi-Fi-only update setting.
+DexTrail checks for new app releases when you open it, using Wi-Fi or mobile data. The prompt shows the release notes and lets you choose **Download update** or **Later**. Downloads happen inside DexTrail, with progress shown before Android asks you to confirm installation. The Wi-Fi-only setting still applies to PokéAPI and Champions reference updates.
 
 For future updates, install the new APK over your existing copy. Export a saved-data backup first so you have an extra copy of your records.
 
-## What’s New in 1.0.4
+## What’s New in 1.0.5
 
-- Added optional usage statistics to help improve DexTrail and make updates more reliable.
-- Choose whether to share when you first open this update, or change your choice anytime in Settings → Privacy.
-- Updated the privacy information to explain what is shared. Your trainer profile, teams and collections stay on your device.
+- App update alerts now work on mobile data as well as Wi-Fi.
+- See what changed directly in the update prompt.
+- Download updates inside DexTrail, follow their progress, and open Android’s installer when they’re ready. Your saved data stays in place.
+- Wi-Fi only still applies to PokéAPI and Champions reference downloads. APK downloads start only when you choose.
 
 [Read the release history](CHANGELOG.md)
 
