@@ -1,5 +1,11 @@
 # DexTrail release history
 
+## 1.0.3 — October 30, 2026
+
+- Fixed Champions updates failing when a guide illustration is unavailable.
+- Rules, eligible Pokémon and guide information can now refresh without being blocked by an optional image.
+- Available saved artwork stays in place, with a clear message when an image needs another attempt.
+
 ## 1.0.2 — 2026-10-29
 
 Champions updates, without losing your place
