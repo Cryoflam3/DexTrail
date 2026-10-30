@@ -1,5 +1,11 @@
 # DexTrail release history
 
+## 1.0.4 — October 30, 2026
+
+- Added optional usage statistics to help improve DexTrail and make updates more reliable.
+- Choose whether to share when you first open this update, or change your choice anytime in Settings → Privacy.
+- Updated the privacy information to explain what is shared. Your trainer profile, teams and collections stay on your device.
+
 ## 1.0.3 — October 30, 2026
 
 - Fixed Champions updates failing when a guide illustration is unavailable.
@@ -28,5 +34,3 @@ Smoother PokéAPI updates
 ## 1.0 — 2026-10-26
 
 Initial release
-
-
