@@ -8,9 +8,9 @@ Your Pokémon companion for Android. Look up Pokémon, explore regional maps, bu
 
 Get the APK from [Releases](https://github.com/Cryoflam3/DexTrail/releases/latest).
 
-**Version 1.0.5 · Android 5.1 or newer**
+**Version 1.0.6 · Android 5.1 or newer**
 
-1. Download `DexTrail-1.0.5.apk` from the release.
+1. Download `DexTrail-1.0.6.apk` from the release.
 2. Open the file on your Android device. Android may ask you to allow installation from your browser or file manager.
 3. Choose a nickname and avatar, set your preferences, and start exploring.
 
@@ -18,12 +18,11 @@ DexTrail checks for new app releases when you open it, using Wi-Fi or mobile dat
 
 For future updates, install the new APK over your existing copy. Export a saved-data backup first so you have an extra copy of your records.
 
-## What’s New in 1.0.5
+## What’s New in 1.0.6
 
-- App update alerts now work on mobile data as well as Wi-Fi.
-- See what changed directly in the update prompt.
-- Download updates inside DexTrail, follow their progress, and open Android’s installer when they’re ready. Your saved data stays in place.
-- Wi-Fi only still applies to PokéAPI and Champions reference downloads. APK downloads start only when you choose.
+- Fixed repeated artwork warnings after successful Champions updates.
+- Missing source images no longer ask you to retry. Available artwork stays in place, and DexTrail checks for the missing images again later.
+- Temporary connection problems still show a clear message, while verified Champions information and your saved data stay available.
 
 [Read the release history](CHANGELOG.md)
 

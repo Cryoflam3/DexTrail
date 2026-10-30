@@ -1,5 +1,11 @@
 # DexTrail release history
 
+## 1.0.6 — October 30, 2026
+
+- Fixed repeated artwork warnings after successful Champions updates.
+- Missing source images no longer ask you to retry. Available artwork stays in place, and DexTrail checks for the missing images again later.
+- Temporary connection problems still show a clear message, while verified Champions information and your saved data stay available.
+
 ## 1.0.5 — October 30, 2026
 
 - App update alerts now work on mobile data as well as Wi-Fi.
